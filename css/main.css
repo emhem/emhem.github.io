@@ -1,0 +1,124 @@
+body {
+
+	/** Basic styling - font **/
+	font-family: "Montserrat";
+	font-weight: 300;
+	color: #fff;
+  line-height: 1.5;
+
+	/** Basic styling - background **/
+	background-color: #240035;
+  /*background-image: url("../images/endless-clouds.svg");*/
+  background-image: url("../images/church-on-sunday.svg");
+  background-attachment: fixed;
+  background-position: center center;
+
+}
+
+/* Utilities */
+.min-height-view {
+  min-height: 100vh;
+}
+
+.disp-flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.disp-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.accent-text {
+  font-size: 1.05em;
+  font-weight: 500;
+  color: rgb(250,200,195);
+}
+
+/* Header */
+header {
+  box-sizing: border-box;
+  padding: 30px;
+}
+
+header > div {
+}
+
+header h1 {
+  font-size: 15vh;
+  line-height: 1;
+}
+
+header h1>#lastName {
+  font-size: 10vh;
+}
+
+/* Main content container */
+.container {
+  box-sizing: border-box;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+
+/* == Cards == */
+.card {
+  margin: 35px 25px;
+  padding: 15px;
+  background-color: rgba(80,80,90,0.4);
+  outline: 15px solid rgba(80,80,90,0.4);
+  border: 5px solid rgba(160,160,180,0.6);
+}
+
+.card~.card {
+  margin-top: 50px; /* Increase margin between adjacent cards */
+}
+
+.card :first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.card :last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+@media only screen and (orientation: landscape) {
+  header h1>#lastName {
+    font-size: inherit;
+  }
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  /* */
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  /* */
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  /* */
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  /* */
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  /* */
+}
