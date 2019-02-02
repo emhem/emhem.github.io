@@ -1,0 +1,86 @@
+Here's a dump of stuff that I'd like to add eventually...
+
+
+<!--<section id="secExperiences" class=" card min-height-view">
+  <h2>Experiences</h2>
+  <div id="timeline">
+
+    <div class="timeline-pt">
+      <div class="timeline-img">
+        <div class="timeline-dot"></div>
+      </div>
+      <div class="timeline-description">
+        <h3>January 2012 - Became a ninja</h3>
+        <p>I took Taekwondo lessons for 8-ish years and earned my second-degree black belt.</p>
+      </div>
+    </div>
+
+    <div class="timeline-pt">
+      <div class="timeline-img">
+        <div class="timeline-dot"></div>
+      </div>
+      <div class="timeline-description">
+        <h3>2010-2014 - Worked as a physics TA, learned programming via procrastination</h3>
+        <p>I took Taekwondo lessons for 8-ish years and earned my second-degree black belt.</p>
+      </div>
+    </div>
+
+    <div>
+      <h3>2010-2014 - Worked as a physics TA, learned programming via procrastination</h3>
+    </div>
+    <div>
+      <h3>January 2012 - Studied abroad in Beijing, China and Tokyo, Japan</h3>
+    </div>
+    <div>
+      <h3>Summer 2012 - REU internship at Cornell University</h3>
+    </div>
+    <div>
+      <h3>Summer 2013 - REU internship at University of California, Davis</h3>
+    </div>
+    <div>
+      <h3>June 2014 - Graduated from St. Olaf College</h3>
+    </div>
+    <div>
+      <h3>2014-2015 - Short-lived career in food science</h3>
+    </div>
+    <div>
+      <h3>2014-2015 - Short-lived career as a barista</h3>
+    </div>
+    <div>
+      <h3>August 2015 - Moved to Madison, WI</h3>
+    </div>
+    <div>
+      <h3>2018-preset - Preparing for my future career as an exotic dancer.</h3>
+    </div>
+  </div>
+</section>
+</div>
+-->
+
+
+
+<!--<section id="secInterests">
+<h2>Interests</h2>
+<div class="tile">
+  Pole dancing
+</div>
+<div class="tile">
+  Cross stitch
+</div>
+<div class="tile">
+  Usability
+</div>
+<div class="tile">
+  Debugging CSS problems
+</div>
+</section>-->
+
+<!--<section id="secProjects">
+<h2>Projects</h2>
+Here is some information aboue me as a person!
+</section>-->
+
+<!--<section id="secConnect">
+<h2>Connect</h2>
+Here is some information aboue me as a person!
+</section>-->
